@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/jplaetzler/it338goaltracking#readme",
   "dependencies": {
+    "body-parser": "^1.17.1",
     "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
     "nedb": "^1.8.0"
   }
 }
