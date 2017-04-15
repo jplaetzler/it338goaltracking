@@ -2,9 +2,10 @@
   "name": "goaltracking",
   "version": "1.0.0",
   "description": "Goal Tracking app",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/jplaetzler/it338goaltracking/issues"
   },
-  "homepage": "https://github.com/jplaetzler/it338goaltracking#readme"
+  "homepage": "https://github.com/jplaetzler/it338goaltracking#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "nedb": "^1.8.0"
+  }
 }
