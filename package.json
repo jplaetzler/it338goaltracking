@@ -1,0 +1,19 @@
+{
+  "name": "goaltracking",
+  "version": "1.0.0",
+  "description": "Goal Tracking app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jplaetzler/it338goaltracking.git"
+  },
+  "author": "Josh Plaetzler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jplaetzler/it338goaltracking/issues"
+  },
+  "homepage": "https://github.com/jplaetzler/it338goaltracking#readme"
+}
